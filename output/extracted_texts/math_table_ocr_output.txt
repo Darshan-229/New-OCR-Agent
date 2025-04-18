@@ -1,0 +1,32 @@
+----- Extracted Text -----
+Maths basic Formulas table
+
+Perimeter 1 Square 1P=4a
+2Square 2.P = 2il+b)
+Circumference | 1 Circle 1.C=2 (pir
+Area 1Square lAza
+2Rectangle | 2A=Ixb
+Triangle | 3.A=¥alb xh)
+aTrapezoid | 4.4=((b, +b,)xh)/2
+Circle SAaaxe
+Surface Area | 1.Cube 15-6!
+2Cylinder | 2.CSA=2xmxrxh
+3.Cone 3.CSA=1xrxl
+4Sphere 4S-4xnxr
+Volume 1¢ylinder | 1Venrh
+2.Cone 2M =1/3 a’h
+3,Sphere 3N=4/3xnxP
+
+dreameefmesam
+
+
+
+----- Math Expressions -----
+ = 2
+4=
+4/3
+ =1/3 
+15-6
+1/3
+
+----- Table Structures -----
